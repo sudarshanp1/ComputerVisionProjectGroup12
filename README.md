@@ -1,5 +1,4 @@
 # ComputerVisionProjectGroup12
-Disaster-Resilient Military Base Damage Assessment with Semantic-Segmentation
 Project: Disaster-Resilient Military Base Damage Assessment with Semantic-Segmentation
 
 ## Overview
