@@ -3,7 +3,7 @@ Project: Disaster-Resilient Military Base Damage Assessment with Semantic-Segmen
 
 ## Overview
 
-This project utilizes computer vision techniques, specifically semantic segmentation, to assess structural damage in military bases following disasters. By analyzing aerial imagery captured by Unmanned Aerial Vehicles (UAVs), the system aims to provide detailed, pixel-level damage maps, facilitating rapid recovery and strategic planning.
+This project utilizes computer vision techniques, specifically semantic segmentation to assess structural damage in military bases following disasters. By analyzing aerial imagery captured by Unmanned Aerial Vehicles (UAVs), the system aims to provide detailed, pixel-level damage maps, facilitating rapid recovery and strategic planning.
 
 The project focuses on identifying and mapping various types of damage, including cracks, infrastructure failures, and operational disruptions. This detailed analysis allows for a more accurate and efficient assessment of the situation, enabling quicker and more effective response efforts.
 
