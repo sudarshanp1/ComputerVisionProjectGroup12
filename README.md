@@ -55,7 +55,7 @@ The paper describing the dataset and its collection can be downloaded from this 
 
 ## Example Semantic Segmentation Results
 
-![Example Semantic Segmentation Results](/Users/sudarshanacharya/Downloads/Disaster Semantic Segmentation.png)
+![Example Semantic Segmentation Results](/Users/sudarshanacharya/Downloads/DisasterSemanticSegmentation.png)
 
 
 
