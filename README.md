@@ -49,7 +49,7 @@ The dataset used in this project consists of aerial imagery, similar to that col
 * 
 ## Paper Link
 
-The paper describing the dataset and its collection can be downloaded from this [link](https://www.nature.com/articles/s41597-023-02799-4). Please cite our paper when using the dataset.
+The paper describing the dataset and its collection can be downloaded from this [link](https://www.nature.com/articles/s41597-023-02799-4).
 
 
 
