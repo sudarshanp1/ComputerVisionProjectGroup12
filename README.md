@@ -56,7 +56,7 @@ For this project, the dataset was downloaded from [link](https://www.kaggle.com/
 
 ## Example Semantic Segmentation Results
 
-![DisasterSemanticSegmentation](Segmentation sample.png)
+![DisasterSemanticSegmentation](https://github.com/sudarshanp1/ComputerVisionProjectGroup12/blob/rosalindmpaulson-patch-1/Segmentation%20sample.png)
 
 
 
