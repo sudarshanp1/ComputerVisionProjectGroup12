@@ -1,4 +1,6 @@
-Dataset VERSION NO. = RescueNet_v1.0
+## Dataset 
+##----------------------------------------------
+VERSION NO. = RescueNet_v1.0
 ##----------------------------------------------
 Features: 
 	1. Total class: 11 ('Background':0, 'Debris':1, 'Water':2, 'Building_No_Damage':3, 'Building_Minor_Damage':4, 'Building_Major_Damage':5, 'Building_Total_Destruction':6, 'Vehicle':7, 'Road':8, 'Tree':9, 'Pool':10, 'Sand':11).
