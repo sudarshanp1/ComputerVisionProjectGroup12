@@ -7,17 +7,18 @@ Features:
            
 	2. Total image: 4494 (Train: 3595, Val: 449, Test: 450)
 
-Colour encoding
+### Color Encoding (Class → RGB)
 
- (0, 0, 0),             # 0 - background
- (7,3,252),             # 1 - debris
- (61, 230, 250),        # 2 - water
- (180, 120, 120),       # 3 - building-no-damage
- (235, 255, 7),         # 4 - building-minor-damage
- (255, 184, 6),         # 5 - building-major-damage
- (255, 0, 0),           # 6 - building-total-destruction
- (255, 0, 245),         # 7 - vehicle
- (140, 140, 140),       # 8 - road
- (4, 250, 7),           # 9 - tree
- (255, 235, 0),         # 10 - pool
- (160, 150, 20)         # 11 - sand
+- **0 - Background**: `(0, 0, 0)`
+- **1 - Debris**: `(7, 3, 252)`
+- **2 - Water**: `(61, 230, 250)`
+- **3 - Building - No Damage**: `(180, 120, 120)`
+- **4 - Building - Minor Damage**: `(235, 255, 7)`
+- **5 - Building - Major Damage**: `(255, 184, 6)`
+- **6 - Building - Total Destruction**: `(255, 0, 0)`
+- **7 - Vehicle**: `(255, 0, 245)`
+- **8 - Road**: `(140, 140, 140)`
+- **9 - Tree**: `(4, 250, 7)`
+- **10 - Pool**: `(255, 235, 0)`
+- **11 - Sand**: `(160, 150, 20)`
+
