@@ -53,6 +53,10 @@ The paper describing the dataset and its collection can be downloaded from this 
 
 For this project, the dataset was downloaded from [link](https://www.kaggle.com/datasets/yaroslavchyrko/rescuenet)
 
+## Deployed App Link
+
+The app was deployed using streamlit and can be accessed here: [link](https://computervisionprojectgroup12-2025.streamlit.app/)
+
 
 ## Example Semantic Segmentation Results
 
