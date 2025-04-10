@@ -60,7 +60,7 @@ The app was deployed using streamlit and can be accessed here: [link](https://co
 
 ## Example Semantic Segmentation Results
 
-![DisasterSemanticSegmentation](https://github.com/sudarshanp1/ComputerVisionProjectGroup12/blob/rosalindmpaulson-patch-1/Segmentation%20sample.png)
+![DisasterSemanticSegmentation](https://github.com/sudarshanp1/ComputerVisionProjectGroup12/blob/rosalindmpaulson_changes/Segmentation%20sample.png)
 
 
 
