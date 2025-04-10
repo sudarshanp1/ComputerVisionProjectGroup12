@@ -1,0 +1,8 @@
+opencv-python-headless
+pandas==2.2.3
+numpy==2.1.3
+tensorflow==2.19.0
+scikit-learn==1.6.1
+matplotlib==3.10.1
+gdown
+git+https://github.com/qubvel/segmentation_models.git
