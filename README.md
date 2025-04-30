@@ -21,13 +21,14 @@ The dataset used in this project consists of aerial imagery, similar to that col
 * **Semantic Segmentation:** The dataset supports pixel-level classification, enabling the creation of detailed damage maps.
 * **Similarities to RescueNet:** The dataset shares characteristics with the RescueNet dataset, which includes semantic segmentation labels for:
     * Background
+    * Debris
     * Water
     * Building No Damage
     * Building Minor Damage
     * Building Major Damage
     * Building Total Destruction
-    * Road-Clear
-    * Road-Blocked
+    * Sand
+    * Road
     * Vehicle
     * Tree
     * Pool
@@ -50,12 +51,16 @@ The dataset used in this project consists of aerial imagery, similar to that col
 
 The paper describing the dataset and its collection can be downloaded from this [link](https://www.nature.com/articles/s41597-023-02799-4).
 
+For this project, the dataset was downloaded from [link](https://www.kaggle.com/datasets/yaroslavchyrko/rescuenet)
 
+## Deployed App Link
+
+The app was deployed using streamlit and can be accessed here: [link](https://computervisionprojectgroup12-2025.streamlit.app/)
 
 
 ## Example Semantic Segmentation Results
 
-![DisasterSemanticSegmentation](https://github.com/user-attachments/assets/bb22b7ee-5b9c-4e16-b612-6fba0076b950)
+![DisasterSemanticSegmentation](https://github.com/sudarshanp1/ComputerVisionProjectGroup12/blob/rosalindmpaulson_changes/Segmentation%20sample.png)
 
 
 
